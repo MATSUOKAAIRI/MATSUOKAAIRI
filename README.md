@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a front engineer.
-- 🌱 I’m currently learning go!
+- 🌱 I’m currently learning react!
 - 📫 How to reach me: [Twitter - @rii_3112](https://twitter.com/rii_3112)
 <br>
 
